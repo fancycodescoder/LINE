@@ -1,0 +1,1 @@
+Building a chat app with tailwing CSS and making it fully responsive
